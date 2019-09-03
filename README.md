@@ -1,4 +1,7 @@
 # README
+#
+# N.B. Source Code exists at htt://www.raiiar.com/rg/RelaxGaming2.zip
+#
 		// === J.O. ===============================================================================================================================
 		// === MODULE - index.html - (NUENZO JS v1.0)
 		// ===
