@@ -1,46 +1,47 @@
 # README
-# 		// === J.O. ===============================================================================================================================
-# 		// === MODULE - index.html - (NUENZO JS v1.0)
-# 		// ===
-# 		// === AUTHOR - Julius Olatokunbo
-# 		// ===
-# 		// === REASON - RELAX GAMING Require an online-Wealth Management System
-# 		// ===        - Index.Html is the RELAX GAMING algorithm in JSON
-# 		// ===        - RELAX GAMING RUBY DEVELOPER TEST
-# 		// ===        
-# 		// ===        - ASSIGNMENT
-# 		// ===        
-# 		// ===        - The goal:
-# 		// ===        - Create a web application using Ruby on Rails framework to build a configurable
-# 		// ===        - dashboard system customised personally for each user.
-# 		// ===        - Requirements:
-# 		// ===        - ? Rails 4+
-# 		// ===        - ? Bootstrap, Foundation e.t.c.
-# 		// ===        - ? Use Devise(https://github.com/plataformatec/devise) as an authentication tool.
-# 		// ===        - ? Use RSpec(https://github.com/rspec/rspec-rails) for making tests.
-# 		// ===        - ? Push code to GitHub/BitBucket(it shouldn't be one commit, we are interested to
-# 		// ===        - see to the development process through commits)
-# 		// ===        - Description:
-# 		// ===        - This is a live situation when you have a couple of users in the database and each of
-# 		// ===        - them has personalised dashboards page.
-# 		// ===        - 1) Dashboards should be resources. The user should have the possibility to create
-# 		// ===        - new or update existing dashboards.
-# 		// ===        - 2) You need to save the user's choice of dashboards including dashboards’ order to
-# 		// ===        - the database.
-# 		// ===        - 3) Dashboards should be movable.
-# 		// ===        - 4) As one dashboard use bootstrap panels(div/span e.t.c) with text '<h2>Panel
-# 		// ===        - 1</h2>' inside. In real live it could be a chart inside or some counter or win/lose
-# 		// ===        - statistics. For this example we use just a stub panel.
-# 		// ===        - 5) Deploy your application to Heroku(https://www.heroku.com)
-# 		// ===        - Details are important!
-# 		// ===        - The estimated time to complete this task is up to a few hours. If you feel that you
-# 		// ===        - already spent more time on this — it is always better to have an additional call with us
-# 		// ===        - on your questions.
-#         // ===
-# 		// === HISTORY- ===========================================================================================================================
-# 		// === J.O. 01-SEP-2019 - v1.0 - Initial flash param loading to establish communication with server, trace output to console
-# 	  	// === J.O. ===============================================================================================================================
+		// === J.O. ===============================================================================================================================
+		// === MODULE - index.html - (NUENZO JS v1.0)
+		// ===
+		// === AUTHOR - Julius Olatokunbo
+		// ===
+		// === REASON - RELAX GAMING Require an online-Wealth Management System
+		// ===        - Index.Html is the RELAX GAMING algorithm in JSON
+		// ===        - RELAX GAMING RUBY DEVELOPER TEST
+		// ===        
+		// ===        - ASSIGNMENT
+		// ===        
+		// ===        - The goal:
+		// ===        - Create a web application using Ruby on Rails framework to build a configurable
+		// ===        - dashboard system customised personally for each user.
+		// ===        - Requirements:
+		// ===        - ? Rails 4+
+		// ===        - ? Bootstrap, Foundation e.t.c.
+		// ===        - ? Use Devise(https://github.com/plataformatec/devise) as an authentication tool.
+		// ===        - ? Use RSpec(https://github.com/rspec/rspec-rails) for making tests.
+		// ===        - ? Push code to GitHub/BitBucket(it shouldn't be one commit, we are interested to
+		// ===        - see to the development process through commits)
+		// ===        - Description:
+		// ===        - This is a live situation when you have a couple of users in the database and each of
+		// ===        - them has personalised dashboards page.
+		// ===        - 1) Dashboards should be resources. The user should have the possibility to create
+		// ===        - new or update existing dashboards.
+		// ===        - 2) You need to save the user's choice of dashboards including dashboards’ order to
+		// ===        - the database.
+		// ===        - 3) Dashboards should be movable.
+		// ===        - 4) As one dashboard use bootstrap panels(div/span e.t.c) with text '<h2>Panel
+		// ===        - 1</h2>' inside. In real live it could be a chart inside or some counter or win/lose
+		// ===        - statistics. For this example we use just a stub panel.
+		// ===        - 5) Deploy your application to Heroku(https://www.heroku.com)
+		// ===        - Details are important!
+		// ===        - The estimated time to complete this task is up to a few hours. If you feel that you
+		// ===        - already spent more time on this — it is always better to have an additional call with us
+		// ===        - on your questions.
+        // ===
+		// === HISTORY- ===========================================================================================================================
+		// === J.O. 01-SEP-2019 - v1.0 - Initial flash param loading to establish communication with server, trace output to console
+	  	// === J.O. ===============================================================================================================================
 
+# 
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
